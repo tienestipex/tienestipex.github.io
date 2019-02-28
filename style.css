@@ -32,6 +32,11 @@
   text-align: left;
   padding: 8px;
 }
+
+#entradatexto{
+		font-size: 0.84em;
+		text-align:center;
+}
  #par {
   background-color: #F1F1F1;
 
