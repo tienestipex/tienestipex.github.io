@@ -8,8 +8,14 @@
 
 
 <url>
-  <loc>https://guillepedia.com/</loc>
+  <loc>http://guillepedia.com/</loc>
   <lastmod>2019-03-17T18:05:41+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://guillepedia.com/donacion/</loc>
+  <lastmod>2019-03-17T18:05:41+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
