@@ -37,6 +37,11 @@
 		font-size: 0.84em;
 		text-align:center;
 }
+#resaltar{
+		font-size: 0.84em;
+		text-align:center;
+		color:red;
+}
  #par {
   background-color: #F1F1F1;
 
